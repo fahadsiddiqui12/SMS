@@ -6,4 +6,5 @@ echo "Hiii";
 echo "first commit for checking";
 
 
-int a = 23;
+$a = 23;
+
